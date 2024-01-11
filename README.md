@@ -2,6 +2,30 @@
 
 Change Variables Depend On Your Usage
 
+https://github.com/M03ED/Marzban_Bulk_Account_Maker.git
+
+
+```sh
+# Clone the Repository
+git clone https://github.com/M03ED/Marzban_Bulk_Account_Maker.git
+
+# Change Directory
+cd Marzban_Bulk_Account_Maker
+
+# Install pip (if not already installed)
+wget -qO- https://bootstrap.pypa.io/get-pip.py | python3 -
+
+# Install Dependencies
+python3 -m pip install -r requirements.txt
+
+# Run the Script
+python3 main.py
+
+```
+
+copy 
+
+
 ```python
 Username = "user"
 Password = "pass"
