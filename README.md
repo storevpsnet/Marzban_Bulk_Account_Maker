@@ -18,6 +18,10 @@ wget -qO- https://bootstrap.pypa.io/get-pip.py | python3 -
 # Install Dependencies
 python3 -m pip install -r requirements.txt
 
+# Edit
+
+nano Make_users.py
+
 # Run the Script
 python3 main.py
 
